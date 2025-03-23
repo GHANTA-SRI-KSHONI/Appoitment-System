@@ -68,3 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The Doctor Appointment App is a user-friendly platform designed to streamline the process of booking, managing, and tracking doctor appointments. It allows patients to schedule visits with healthcare professionals, receive appointment reminders, and access medical records, while doctors can manage their schedules efficiently.
